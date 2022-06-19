@@ -1,6 +1,6 @@
 # Date-Structuring
 
-Organizing large amount of semi-structured data with respect to dates is not an easy task. This library helps to organize JSON data with in the order of dates specified.
+Organizing large amount of semi-structured data with respect to dates is not an easy task. This library helps to organize JSON data with the order of dates specified.
 
 ### Installing
 
@@ -10,7 +10,7 @@ Install the package
 npm install date-structuring
 ```
 
-Import the fuction
+Import the function
 
 ```
 const { datesToJsonStructure } = require("date-structuring");
